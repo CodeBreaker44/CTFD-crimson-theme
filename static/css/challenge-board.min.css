@@ -22,19 +22,19 @@
 }
 
 .challenge-button {
-    border: solid 1px #e02216;
+    border: solid 1px #6096B4;
     background-color: transparent !important;
-    box-shadow: 0px 0px 8px 0px #e02216;
+    box-shadow: 0px 0px 8px 0px #6096B4;
     border-radius: 8px;
 }
 .challenge-button:hover{
-    border: solid 1px #e02216;
+    border: solid 1px #6096B4;
     opacity: 0.8;
 }
 .solved-challenge {
-    border: solid 1px #e02216;
-    background-color: transparent !important;
-    box-shadow: 0px 0px 8px 0px #e02216;
+    border: solid 1px #93BFCF;
+    background-color: #93BFCF !important;
+    box-shadow: 0px 0px 8px 0px #93BFCF;
 }
 
 .corner-button-check {
@@ -42,7 +42,7 @@
     margin-right: 25px;
     position: absolute;
     right: 0;
-    color: #e02216;
+    color: #6096B4;
 }
 
 .key-submit .btn {

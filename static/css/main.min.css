@@ -127,7 +127,7 @@ main {
     --blue: #007bff;
     --indigo: #6610f2;
     --purple: #6f42c1;
-    --pink: #e83e8c;
+    --pink: #EEE9DA;
     --red: #dc3545;
     --orange: #fd7e14;
     --yellow: #ffc107;
@@ -664,7 +664,7 @@ mark {
 
 code {
     font-size: 87.5%;
-    color: #e83e8c;
+    color: #EEE9DA;
     word-break: break-word
 }
 
@@ -2458,14 +2458,14 @@ fieldset:disabled a.btn {
 
 .btn-primary.focus,
 .btn-primary:focus {
-    box-shadow: 0 0 0 .2rem #e02216
+    box-shadow: 0 0 0 .2rem #6096B4
 }
 
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #fff;
-    background-color: #e02216;
-    border-color: #e02216
+    background-color: #6096B4;
+    border-color: #6096B4
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
@@ -2477,7 +2477,7 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show>.btn-primary.dropdown-toggle:focus {
-    box-shadow: 0 0 0 .2rem #e02216
+    box-shadow: 0 0 0 .2rem #6096B4
 }
 
 .btn-secondary {
@@ -2520,25 +2520,25 @@ fieldset:disabled a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #e02216;
+    background-color: #6096B4;
     border-color: #fff
 }
 
 .btn-success:hover {
     color: #fff;
-    background-color: #e02216;
+    background-color: #6096B4;
     border-color: #fff
 }
 
 .btn-success.focus,
 .btn-success:focus {
-    box-shadow: 0 0 0 .2rem #e02216
+    box-shadow: 0 0 0 .2rem #6096B4
 }
 
 .btn-success.disabled,
 .btn-success:disabled {
     color: #fff;
-    background-color: #e02216;
+    background-color: #6096B4;
     border-color: #fff
 }
 
@@ -4139,7 +4139,7 @@ input[type=submit].btn-block {
 }
 
 .nav-tabs {
-    border-bottom: 1px solid #e02216
+    border-bottom: 1px solid #6096B4
 }
 
 .nav-tabs .nav-item {
@@ -4154,11 +4154,11 @@ input[type=submit].btn-block {
 
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
-    border-color: #e02216
+    border-color: #6096B4
 }
 
 .nav-tabs .nav-link.disabled {
-    color: #e02216;
+    color: #6096B4;
     background-color: transparent;
     border-color: transparent
 }
@@ -4166,7 +4166,7 @@ input[type=submit].btn-block {
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
     color: #495057;
-    border-color: #e02216
+    border-color: #6096B4
 }
 
 .nav-tabs .dropdown-menu {
@@ -4182,7 +4182,7 @@ input[type=submit].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #e02216
+    background-color: #6096B4
 }
 
 .nav-fill .nav-item {
@@ -4226,7 +4226,7 @@ input[type=submit].btn-block {
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
-    text-shadow: 0 2px 10px #e02216;
+    text-shadow: 0 2px 10px #6096B4;
 }
 
 .navbar-brand:focus,
@@ -5637,12 +5637,12 @@ a.badge-dark:focus {
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1;
-    color: #e02216;
+    color: #6096B4;
     text-shadow: 0 1px 0 #fff;
 }
 
 .close:hover {
-    color: #e02216;
+    color: #6096B4;
     text-decoration: none
 }
 
@@ -10932,7 +10932,7 @@ html {
 
 h1,
 h2 {
-    text-shadow: 0 2px 10px #e02216;
+    text-shadow: 0 2px 10px #6096B4;
     font-family: 'PT Sans Caption', sans-serif;
     font-weight: 500;
     letter-spacing: 2px
@@ -11064,7 +11064,7 @@ blockquote {
 }
 
 .load-hint {
-    background: #e02216 !important;
+    background: #6096B4 !important;
 }
 
 .btn-primary,
@@ -11076,16 +11076,16 @@ blockquote {
 
 .btn-primary:hover,
 .challenge-submit:hover {
-    background-color: #e02216;
+    background-color: #6096B4;
     color: white;
-    /* box-shadow: 0px 0px 5px #e02216, 0px 0px 25px #e02216, 0px 0px 50px #e02216, 0px 0px 100px #e02216;
-    -webkit-box-reflect: below 1px linear-gradient(transparent, #e02216); */
+    /* box-shadow: 0px 0px 5px #6096B4, 0px 0px 25px #6096B4, 0px 0px 50px #6096B4, 0px 0px 100px #6096B4;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #6096B4); */
 }
 
 .category-header h3 {
     color: white !important;
     font-family: 'PT Sans Caption', sans-serif;
-    text-shadow: 0 2px 10px #e02216;
+    text-shadow: 0 2px 10px #6096B4;
     text-transform: uppercase;
 }
 table,
